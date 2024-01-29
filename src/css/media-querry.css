@@ -37,6 +37,12 @@
 }
 
 @media (max-width: 768px){
+
+    .btn_comprar{
+        width: 80%;
+
+    }
+
     .compreja{
         padding: 30px;
 
