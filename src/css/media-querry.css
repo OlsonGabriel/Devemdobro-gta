@@ -1,0 +1,61 @@
+
+@media (max-width: 1024px){
+    .cabecalho{
+        justify-content: center;
+        flex-direction: column;
+        padding: 50px 0;
+        gap: 15px;
+
+    }
+
+    .cabecalho .cabecalho_nav .cabecalho_nav_menu li a{
+        padding: 15px;
+
+    }
+
+    .home .home_informacoes{
+        padding: 30px;
+
+
+    }
+
+    .home .home_informacoes .home_informacoes_lista_jogos img{
+        max-width: 100px;
+
+    }
+
+    .home .home_informacoes h1{
+        font-size: 40px;
+
+    }
+
+    .compreja .compreja_cartao{
+        width: 70%;
+
+    }
+
+}
+
+@media (max-width: 768px){
+    .compreja{
+        padding: 30px;
+
+    }
+
+    .compreja .compreja_cartao{
+        padding: 80px 20px;
+        width: 100%;
+
+    }
+
+    .compreja .compreja_cartao .compreja_cartao_informacoes h3{
+        font-size: 35px;
+
+    }
+
+    .compreja .compreja_cartao_informacoes .compreja_cartao_informacoes_plataformas{
+        flex-direction: column;
+
+    }
+
+}
